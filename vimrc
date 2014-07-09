@@ -1,5 +1,5 @@
 syntax on
-set cindent
+set autoindent
 
 set shiftwidth=2
 set expandtab
