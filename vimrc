@@ -9,4 +9,5 @@ set tabstop=2
 set hlsearch
 
 set cscopetag
+set cscopequickfix=s-,g-,d-,c-,t-,e-,f-,i-
 cs add ./cscope.out
